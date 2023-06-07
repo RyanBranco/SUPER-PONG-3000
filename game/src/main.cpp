@@ -22,7 +22,7 @@ int main() {
     bn::sprite_ptr ball = bn::sprite_items::ball.create_sprite(0, 0);
     bn::sprite_text_generator text_generator(common::variable_8x8_sprite_font);
     bn::vector<bn::sprite_ptr, 16> text_sprites;
-    text_generator.generate(-6 * 16, -68, "(Press A to start)", text_sprites);
+    text_generator.generate(-6 * 16, -68, "Not functional... This is a template to create GBA games!", text_sprites);
 
     while(true)
     {
