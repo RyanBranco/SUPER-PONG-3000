@@ -8,3 +8,4 @@ You should be able to write this ROM file to an official GBA game cartridge to p
 HAPPY CODING!
 
 ⚠️ Have not tested on macOS or linux. Can only confirm this works for Windows.
+"# SUPER-PONG-3000" 
