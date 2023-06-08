@@ -6,7 +6,10 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/butano/**",
                 "${workspaceFolder}/common/**",
-                "${workspaceFolder}/build"
+                "${workspaceFolder}/build",
+                "${workspaceFolder}/butano/include",
+                "${workspaceFolder}/common/include",
+                "${workspaceFolder}/game/include"
             ],
             "defines": [
                 "_DEBUG",
