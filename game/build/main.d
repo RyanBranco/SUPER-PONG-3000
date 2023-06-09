@@ -59,6 +59,15 @@ main.o: C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/src/main.cpp \
  C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_sprite_text_generator.h \
  C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_vector.h \
  C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_sprite_font.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_log.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/build/bn_regular_bg_items_bg.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_item.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_bg_palette_item.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_map_item.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_size.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_point.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_map_cell.h \
+ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_tiles_item.h \
  C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/build/bn_sprite_items_paddle.h \
  C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/build/bn_sprite_items_ball.h
 C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_core.h:
@@ -121,5 +130,14 @@ C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_sprite_item.h:
 C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_sprite_text_generator.h:
 C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_vector.h:
 C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_sprite_font.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_log.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/build/bn_regular_bg_items_bg.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_item.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_bg_palette_item.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_map_item.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_size.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_point.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_map_cell.h:
+C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/butano/include/bn_regular_bg_tiles_item.h:
 C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/build/bn_sprite_items_paddle.h:
 C:/Users/ryanb/code/gameboy/SUPER-PONG-3000/game/build/bn_sprite_items_ball.h:
